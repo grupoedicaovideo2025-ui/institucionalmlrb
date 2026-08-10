@@ -176,8 +176,7 @@ img {
   left: 0;
   right: 0;
   z-index: 100;
-  background: rgba(250, 249, 247, 0.95);
-  backdrop-filter: blur(6px);
+  background: #ffffff;
   border-bottom: 1px solid rgba(26, 26, 26, 0.06);
   transition: box-shadow var(--transition);
 }
