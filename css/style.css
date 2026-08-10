@@ -195,11 +195,23 @@ img {
   font-weight: 600;
   color: var(--color-black);
   letter-spacing: 0.5px;
+  display: flex;
+  align-items: center;
 }
 
 .logo span {
   color: var(--color-gold);
   font-style: italic;
+}
+
+.logo-img {
+  height: 58px;
+  width: auto;
+  display: block;
+}
+
+.footer-logo .logo-img {
+  height: 46px;
 }
 
 .main-nav {
