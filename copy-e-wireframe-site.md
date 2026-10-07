@@ -123,7 +123,7 @@
 > **Título:** O Especialista à Frente da Maison
 
 > **Nome:** Janssen Machado
-> **Assinatura:** Fundador e Especialista Chefe
+> **Assinatura:** Fundador e especialista responsável pela clínica
 
 > **Biografia:**
 > Com trajetória dedicada à estética avançada, Janssen Machado construiu a Maison La Renovence Beauty sobre um princípio inegociável: excelência técnica aliada à segurança absoluta do paciente. Cada procedimento realizado carrega sua assinatura pessoal de precisão, discrição e cuidado.
